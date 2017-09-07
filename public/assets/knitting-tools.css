@@ -1,0 +1,15 @@
+.header {
+  background: blue;
+  color: white;
+  padding: 10px 20px;
+}
+
+.header__title,
+.header__title:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.container {
+  margin-top: 20px;
+}
